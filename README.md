@@ -17,4 +17,4 @@ Where:
 - mu = tire grip coefficient (dimensionless)
 - g = acceleration due to gravity (9.81 m/s²)
 - R = radius of curvature (m)
-- m = mass of the car (kg)
+
