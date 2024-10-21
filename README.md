@@ -7,11 +7,11 @@ CornerMaster started as my Math Internal Assessment (IA), where I explored the c
 
 As a sophomore physics major, I expanded the scope by incorporating principles of kinematics to compute not only the difficulty coefficient but also the optimal speed through the corner and the optimal exit speed.
 
-## Principles Used:
+## Principles Used
 The optimal cornering speed is derived using the principle of centripetal force, which balances the frictional force acting between the car’s tires and the road surface. The optimal exit speed is determined using the kinematic equation that relates the car’s entry speed, its acceleration, and the distance over which the acceleration is applied. 
 
-## How the Program Works:
-User Inputs: The user is prompted to input:
+## How the Program Works
+The user is prompted to input:
 
 - The polynomial that models the curve of the track (for both the corner and elevation profiles), the car's parameters, including entry speed, tire grip coefficient, weight, and acceleration, the boundaries of the curve (x-values) and the length of the exit portion.
 
@@ -27,3 +27,9 @@ User Inputs: The user is prompted to input:
 
 - Speed Conversion: Finally, the program converts both the optimal cornering speed and the exit speed from meters per second (m/s) to kilometers per hour (km/h) for easier interpretation by the user.
 
+## Resources and Credits 
+Throughout this project, I refered to and used multiple sources to learn C++ as well as code & debug this project and down below are all the links and resources I used. 
+
+- [Learning C++](https://www.youtube.com/watch?v=-TkoO8Z07hI&t=293s)
+- For debugging my code and incorporating unknown features of C++, I used [Code Copilot GPT](https://chatgpt.com/g/g-2DQzU5UZl-code-copilot)
+- My [Math IA](https://www.overleaf.com/read/bwnhbfgztctz#6e533f)(To view the document, click on Recompile and then if you want to view only the PDF, click on Layout -> PDF only)
