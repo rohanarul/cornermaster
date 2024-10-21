@@ -10,7 +10,7 @@ As a sophomore physics major, I expanded the scope by incorporating principles o
 <u>Principles Used:<u>
 Optimal Speed During the Corner: The optimal cornering speed is derived using the principle of centripetal force, which balances the frictional force acting between the car’s tires and the road surface. The formula used is:
 
-!(CodeCogsEqn.svg)
+!(CodeCogsEqn)
 
 Where:
 - v_opt = optimal speed during the corner (m/s)
