@@ -33,3 +33,4 @@ Throughout this project, I refered to and used multiple sources to learn C++ as 
 - [Learning C++](https://www.youtube.com/watch?v=-TkoO8Z07hI&t=293s)
 - For debugging my code and incorporating unknown features of C++, I used [Code Copilot GPT](https://chatgpt.com/g/g-2DQzU5UZl-code-copilot)
 - My [Math IA](https://www.overleaf.com/read/bwnhbfgztctz#6e533f) (To view the document, click on Recompile and then if you want to view only the PDF, click on Layout -> PDF only)
+- For the drivetrain effciencies I used similar values shown in Codemaster's F123 as they were the most reliable source I could find
