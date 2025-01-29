@@ -19,8 +19,6 @@ The user is prompted to input:
 
 - Radius of Curvature: The program calculates the radius of curvature at the midpoint of the curve using the first and second derivatives of the polynomial function. This represents the tightness of the corner, which is essential for determining how challenging the turn is for a car to navigate.
 
-- Difficulty Coefficient: The difficulty coefficient is then calculated as the ratio of the arc length to the radius of curvature. This coefficient provides a single numerical measure of how difficult a given corner is to drive through.
-
 - Optimal Speed During the Corner: Using the radius of curvature, tire grip, car weight, and the principle of centripetal force, the program calculates the optimal speed at which the car can safely navigate the corner without losing grip.
 
 - Optimal Exit Speed: After calculating the speed during the corner, the program computes the optimal exit speed by factoring in the car’s acceleration and the length of the exit portion of the curve. This uses a basic kinematic formula to estimate how much the car can accelerate as it exits the turn.
